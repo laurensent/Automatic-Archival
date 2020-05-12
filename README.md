@@ -6,7 +6,9 @@ Here are three archive ways on Mac:
 - Safari (filetype: .webarchive, the BEST on macOS & iOS )
 - Chrome (filetype: .mhtml)
 - Archive by DEVONthink Plugin (filetype: .webarchive) 
+
 Generally, most people use Google Chrome as the default browsers, while the mhtml page archive is NOT GOOD for macOS or iOS users, especially those who use DEVONthink as their default knowledge management tool. 
+
 Then, Automatic Archival - AS is built for Google Chrome users to automatically archive the current web page using Safari indirectly.
 
 ## Usage
